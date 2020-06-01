@@ -4,7 +4,9 @@ My personal portfolio site.
 
 ## Technologies used
 
-React, Html and Css.
+- React
+- Html
+- Css
 
 ## Contributors
 
